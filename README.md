@@ -4,7 +4,7 @@
 
 The research aims to explore the current accessibility of bike-friendly infrastructure in NYC and its distribution among different communities. Additionally, the study will investigate the relationship between bike-friendly infrastructure and bike accidents in the city.
 
-###Data Preparation:
+### Data Preparation:
 
 [Accident Data](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Accident%20Data%20Prep.ipynb): Finding the count of docks in each zipcode of NYC. This yields the following this [dataset](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Accidents_Normalized_Zipcodes.csv)
 
@@ -15,11 +15,11 @@ The research aims to explore the current accessibility of bike-friendly infrastr
 [Income](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Zipcode_NYC_prep.ipynb): Mean income of each Zipcode. [Output](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/NYC_Income.csv)
 
 
-###Data Compilation
+### Data Compilation
 
 All the above datasets were merged to compare the statistics in each zipcode. Yielding this [output](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Features_Zipcode_Final.csv)
 
-###Regression Models
+### Regression Models
 
 [Accidents vs bike infrastructure](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Accidents%20vs%20Bike%20Infrastructure.ipynb)
 
