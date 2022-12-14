@@ -2,6 +2,9 @@
 
 ## Bike Infrastructure Accessibility and Safety in NYC
 
+Please find the paper for the project [here](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/PUI%20Final%20Paper.pdf)
+
+
 The research aims to explore the current accessibility of bike-friendly infrastructure in NYC and its distribution among different communities. Additionally, the study will investigate the relationship between bike-friendly infrastructure and bike accidents in the city.
 
 ### Data Preparation:
