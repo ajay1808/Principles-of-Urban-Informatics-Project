@@ -12,4 +12,4 @@ Data Preparation:
 
 [Bike Infrastructure](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/NYC%20Bike%20Infrastructure%20Density.ipynb): This calculates the bike infrastructure by dividing the length of bike lanes by the length of roads. [Output](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Bike%20Infrastructure%20Density.csv)
 
-[Income](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Zipcode_NYC_prep.ipynb): Income by Zipcode. [Output](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/NYC_Income.csv)
+[Income](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/Zipcode_NYC_prep.ipynb): Mean income of each Zipcode. [Output](https://github.com/ajay1808/Principles-of-Urban-Informatics-Project/blob/main/NYC_Income.csv)
